@@ -18,4 +18,7 @@
 	8.) Make inserting your cookies simpler
 
 # How it works
-	Tomato paste gets the rotton tomato movie list url from the user. Then extracts the movie titles from the list and searches for every movie individually on rarbg.to. If/When a movie is found it grabs the first url in the results panel and simply gets the magnet url on the top of the movies page. It is then added to your favorite torrent client to be downloaded.
+	Tomato paste gets the rotton tomato movie list url from the user.
+	Then extracts the movie titles from the list and searches for every movie individually on rarbg.to.
+	If/When a movie is found it grabs the first url in the results panel and simply gets the magnet url on the top of the movies page.
+	It is then added to your favorite torrent client to be downloaded.
