@@ -2,9 +2,10 @@
  	A fast and simple open source movie torrent scraper
 
 # How to Use
-	1.) Open your desired torrenting client (Bittorrent, Utorrent, BittorrentWeb, etc.) and configure your default download directory to the directory where you want the movies.
-	2.) Then place rotton tomatoes movie list into the prompt. (Should look similar to this: "https://www.rottentomatoes.com/top/bestofrt/?year=2018" without the quotes)
-	3.) Press enter and wait for the message that it is completed the scraping process
+	1.) Get your cookie from rarbg.to that has the title skt and the site of rarbg.to and insert it into the labeled area in program.cs
+	2.) Open your desired torrenting client (Bittorrent, Utorrent, BittorrentWeb, etc.) and configure your default download directory to the directory where you want the movies.
+	3.) Then place rotton tomatoes movie list into the prompt. (Should look similar to this: "https://www.rottentomatoes.com/top/bestofrt/?year=2018" without the quotes)
+	4.) Press enter and wait for the message that it is completed the scraping process
 
 # Future changes
 	1.) Detect and manage bad or invalid urls
